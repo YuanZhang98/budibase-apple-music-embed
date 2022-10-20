@@ -1,0 +1,18 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "budibase-apple-music-embed",
+    "friendlyName": "budibase-apple-music-embed",
+    "description": "An amazing Budibase component!",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "dataProvider",
+        "label": "Data provider",
+        "key": "dataProvider",
+        "required": true
+      }
+    ]
+  }
+}
